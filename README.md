@@ -1,2 +1,1 @@
 # logtus
-blog

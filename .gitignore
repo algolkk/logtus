@@ -1,0 +1,8 @@
+#others
+node_modules
+.hugo_build.lock
+
+# OS generated files
+
+# Hugo
+public
