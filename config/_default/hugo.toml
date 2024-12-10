@@ -16,6 +16,10 @@ buildFuture = false
 
 enableEmoji = true
 
+ignoreFiles = [
+  'content/template/.*'  # for Templater of Obsidian
+]
+
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
