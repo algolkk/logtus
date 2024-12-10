@@ -10,3 +10,5 @@ isoCode = "en"
 rtl = false
 dateFormat = "2006-01-02"
 description = "Logtus | algolkk"
+logo = "/img/logo-nobg.png"
+secondaryLogo = "img/logo-nobg.png"
