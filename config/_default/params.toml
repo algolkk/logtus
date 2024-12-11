@@ -54,6 +54,7 @@ showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
 showZenMode = false
+sharingLinks = [ "misskey", "mastodon", "twitter", "email"]
 
 [list]
 showHero = false
