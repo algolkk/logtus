@@ -75,3 +75,7 @@ ignoreFiles = [
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[frontmatter]
+  lastmod = [":fileModTime"]
+  
